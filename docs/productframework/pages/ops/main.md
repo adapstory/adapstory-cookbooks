@@ -11,6 +11,15 @@
   - [Product Requirements Document](https://docs.google.com/document/d/1I61-3IfI6qqsDQM5Cnvw0aFztQNbRU9CCq9St8Z3vCE/edit)
   - [Hypothesis Card](https://docs.google.com/document/d/1C-9NCwm5_AFssK72OEJK2ujQjuuZVvK-8p1tHverp6s/edit)
 
+## Cookbook Archive
+
+- [Индекс внешних артефактов](../../external_artifacts_index.md)
+- [Machine-readable manifest](../../../../data/productframework/external_artifacts_manifest.json)
+- [Локальный Product Architecture Framework](../../external/miro/product-architecture-framework.md)
+- [Локальная библиотека экспериментов](../../external/miro/библиотека-экспериментов.md)
+- [Локальный Product Requirements Document](../../external/google-doc/product-requirements-document.md)
+- [Локальная карточка Hypothesis Card](../../external/google-doc/hypothesis-card.md)
+
 ## Description
 
 Принципы операционного управления PAF с помощью ИИ

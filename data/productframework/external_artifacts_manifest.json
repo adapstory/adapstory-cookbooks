@@ -10,7 +10,8 @@
     "related_pages": [
       "docs/productframework/pages/home.md",
       "docs/productframework/pages/barb_farm_cultures.md",
-      "docs/productframework/pages/product_evolution_cycle.md"
+      "docs/productframework/pages/product_evolution_cycle.md",
+      "docs/productframework/pages/ops/main.md"
     ]
   },
   {
@@ -66,7 +67,8 @@
     "related_pages": [
       "docs/productframework/pages/discovery_triangle.md",
       "docs/productframework/pages/product_market_fit.md",
-      "docs/productframework/pages/customer_context.md"
+      "docs/productframework/pages/customer_context.md",
+      "docs/productframework/pages/ops/main.md"
     ]
   },
   {
@@ -94,7 +96,8 @@
     "related_pages": [
       "docs/productframework/pages/discovery_triangle.md",
       "docs/productframework/pages/product_market_fit.md",
-      "docs/productframework/pages/customer_context.md"
+      "docs/productframework/pages/customer_context.md",
+      "docs/productframework/pages/ops/main.md"
     ]
   },
   {
@@ -108,7 +111,8 @@
     "related_pages": [
       "docs/productframework/pages/product_documentation.md",
       "docs/productframework/pages/tam_sam_som.md",
-      "docs/productframework/pages/value_and_north_star.md"
+      "docs/productframework/pages/value_and_north_star.md",
+      "docs/productframework/pages/ops/main.md"
     ]
   },
   {
