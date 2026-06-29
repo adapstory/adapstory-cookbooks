@@ -2,6 +2,7 @@
 
 - Source: [https://productframework.ru/activities/quantitative_analytics](https://productframework.ru/activities/quantitative_analytics)
 - Summary: Количественная аналитика продукта предназначена для понимания эффективности процессов получения ценности от продукта, позволяя определить размер конверсий, долю использования функций продукта, частоту, распределения, метрики нормирования на одного пользователя и более сложные вопросы вида "сколько?".
+- Primary diagram asset: [quantitative_analytics.jpg](../../../../assets/productframework/pages/activities/quantitative_analytics.jpg)
 - External artifacts:
   - [Библиотека бизнес-моделей](https://miro.com/app/board/uXjVOWJXlSQ=/)
   - [Библиотека гипотез и экспериментов](https://miro.com/app/board/uXjVOxyyBs0=/)

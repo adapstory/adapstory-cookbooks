@@ -78,6 +78,143 @@ SUPPORTED_EXTERNAL_HOSTS = {
     "docs.google.com": "google",
 }
 
+ARTIFACT_BRIEFS: dict[str, dict[str, object]] = {
+    "https://miro.com/app/board/uXjVK3QPtrU=/": {
+        "description": (
+            "Каркас Product Architecture Framework: круговая карта продуктовой "
+            "системы, которая связывает исследования, маркетинг, продажи, "
+            "дизайн решения, разработку, delivery, рост и эксперименты."
+        ),
+        "covers": [
+            "Показывает PAF как единую карту взаимосвязанных продуктовых практик.",
+            "Разбивает пространство на шесть крупных доменов: Discovery & Researches, Value & Solution Design, Development & Delivery, Growth & Experiments, Product Marketing, Sales & Economics.",
+            "Помогает увидеть, какие артефакты и виды работ соединяют стратегию, гипотезы, реализацию и масштабирование.",
+        ],
+        "usage": [
+            "Использовать как обзорную карту для product ops, обучения и аудита роли команды.",
+            "Отмечать на карте, какие практики уже работают, а какие являются пробелами.",
+        ],
+        "key_pages": ["home.md", "product_life_cycle.md", "product_discovery.md"],
+    },
+    "https://miro.com/app/board/uXjVOWJXlSQ=/": {
+        "description": (
+            "Набор шаблонов Business Model Canvas и производных схем для анализа "
+            "и перепроектирования бизнес-модели продукта."
+        ),
+        "covers": [
+            "Содержит варианты структурирования сегментов, ценностных предложений, каналов, монетизации и издержек.",
+            "Подходит для генерации альтернативных моделей масштабирования и проверки гипотез монетизации.",
+        ],
+        "usage": [
+            "Использовать на этапе Business Model Research и при стратегическом рефакторинге продукта.",
+            "Заполнять несколько канвасов параллельно, чтобы сравнить разные модели роста и unit-экономики.",
+        ],
+        "key_pages": ["activities/business_model_research.md", "hypotheses/business_model.md", "business_goals.md"],
+    },
+    "https://miro.com/app/board/uXjVOxyyBs0=/": {
+        "description": (
+            "Библиотека гипотез и экспериментов для проверки спроса, ценности, "
+            "каналов привлечения, активации и бизнес-модели."
+        ),
+        "covers": [
+            "Собирает паттерны экспериментов по разным продуктовым зонам: discovery, growth, marketing и monetization.",
+            "Помогает быстро подобрать метод валидации под конкретную неопределённость.",
+        ],
+        "usage": [
+            "Использовать как каталог экспериментов при формировании backlog гипотез.",
+            "Привязывать выбранный эксперимент к карточке Hypothesis Card и ожидаемой метрике решения.",
+        ],
+        "key_pages": ["experiment_methodology.md", "hypothesis.md", "activities/acquisition_configuration_research.md"],
+    },
+    "https://miro.com/app/board/uXjVPLzO7IM=/": {
+        "description": (
+            "Шаблон оценки объёма рынка TAM / SAM / SOM для перевода общей "
+            "рыночной возможности в реалистичный адресуемый сегмент и целевой "
+            "объём захвата."
+        ),
+        "covers": [
+            "Разделяет расчёт на полный рынок, доступный сегмент и достижимую долю.",
+            "Нужен для проверки, достаточно ли ёмкости рынка под амбиции продукта и бизнеса.",
+        ],
+        "usage": [
+            "Использовать в Market Analysis и Segment Scoring до масштабных инвестиций в решение.",
+            "Фиксировать допущения по сегментам, каналам и ограничениям, а затем уточнять расчёт по мере исследований.",
+        ],
+        "key_pages": ["tam_sam_som.md", "activities/market_analysis.md", "activities/segment_scoring.md"],
+    },
+    "https://miro.com/app/board/uXjVN-A4MfU=/": {
+        "description": (
+            "Схема продуктовой экосистемы, которая показывает, как несколько "
+            "продуктов и потоков ценности могут усиливать друг друга внутри "
+            "общего портфеля."
+        ),
+        "covers": [
+            "Помогает проектировать связи между продуктами, каналами и сценариями перехода пользователя между решениями.",
+            "Нужна для thinking beyond single-product growth и поиска синергии в портфеле.",
+        ],
+        "usage": [
+            "Использовать в Product Evolution и Portfolio Formation, когда бизнес выходит за рамки одного продукта.",
+            "Отмечать точки cross-sell, shared capabilities и общие каналы acquisition/retention.",
+        ],
+        "key_pages": ["product_ecosystem_map.md", "product_evolution_cycle.md", "product_market_fit.md"],
+    },
+    "https://miro.com/app/board/uXjVOs817Gs=/": {
+        "description": (
+            "Карта навыков и ролей product management, раскладывающая продуктовые "
+            "компетенции по доменам исследований, маркетинга, экономики, "
+            "дизайна решения, delivery и growth."
+        ),
+        "covers": [
+            "Показывает, какие компетенции нужны менеджеру продукта и как они группируются в разные типы ролей.",
+            "Поддерживает обсуждение роли AI в перераспределении продуктовых задач.",
+        ],
+        "usage": [
+            "Использовать для оценки текущей роли product manager и планирования развития команды.",
+            "Применять как матрицу для найма, обучения и обсуждения новой ролевой модели с ИИ.",
+        ],
+        "key_pages": ["skill_map.md", "ai_product_roles.md"],
+    },
+    "https://docs.google.com/document/d/1I61-3IfI6qqsDQM5Cnvw0aFztQNbRU9CCq9St8Z3vCE/edit": {
+        "description": (
+            "Шаблон PRD для фиксации продуктовой проблемы, целевого сегмента, "
+            "ценностного предложения, требований, ограничений и критериев успеха."
+        ),
+        "covers": [
+            "Переводит исследовательские и стратегические выводы в документ для дизайна и delivery.",
+        ],
+        "usage": [
+            "Заполнять после прохождения discovery и перед детальным проектированием решения.",
+        ],
+        "key_pages": ["activities/requirements_design.md", "product_documentation.md", "implementation_plan.md"],
+    },
+    "https://docs.google.com/document/d/1C-9NCwm5_AFssK72OEJK2ujQjuuZVvK-8p1tHverp6s/edit": {
+        "description": (
+            "Карточка гипотезы для структурирования допущения, метрик проверки, "
+            "дизайна эксперимента и критерия принятия решения."
+        ),
+        "covers": [
+            "Служит базовым форматом для управления гипотезами потребителя, ценности, решения и бизнес-модели.",
+        ],
+        "usage": [
+            "Использовать вместе с библиотекой экспериментов и backlog гипотез.",
+        ],
+        "key_pages": ["hypothesis.md", "hypotheses/customer.md", "experiment_methodology.md"],
+    },
+    "https://docs.google.com/spreadsheets/d/1DC61vKVcPcxb2OgGZ98hKSlzM1c07YfhAywu1WFy8Eg/edit": {
+        "description": (
+            "Табличная карта Product Mindset с навыками менеджера продукта, "
+            "используемая для диагностики компетенций и обсуждения ролевой модели."
+        ),
+        "covers": [
+            "Фиксирует набор навыков и позволяет смотреть на них как на матрицу развития или оценки роли.",
+        ],
+        "usage": [
+            "Использовать при оценке компетенций, найме и построении плана обучения product-команды.",
+        ],
+        "key_pages": ["skill_map.md", "ai_product_roles.md"],
+    },
+}
+
 
 @dataclass
 class LinkRecord:
@@ -443,15 +580,48 @@ def write_external_markdown(
     if image_path:
         rel = markdown_relpath(image_path, target.parent)
         lines.append(f"- Preview asset: [{image_path.name}]({rel})")
-    if page_refs:
-        lines.append("- Referenced from:")
-        for page_ref in sorted(set(page_refs)):
+    brief = ARTIFACT_BRIEFS.get(artifact_url, {})
+    effective_description = str(brief.get("description") or description).strip()
+    key_pages = select_key_pages(page_refs, brief)
+    if key_pages:
+        lines.append("- Key related pages:")
+        for page_ref in key_pages:
             lines.append(f"  - [{page_ref}]({page_ref})")
+    if page_refs:
+        lines.append(f"- Referenced from archived pages: {len(sorted(set(page_refs)))}")
     lines.append("")
+    if effective_description:
+        lines.extend(["## Description", "", effective_description, ""])
+    covers = [str(item) for item in brief.get("covers", [])]
+    if covers:
+        lines.append("## What The Scheme Covers")
+        lines.append("")
+        for item in covers:
+            lines.append(f"- {item}")
+        lines.append("")
+    usage = [str(item) for item in brief.get("usage", [])]
+    if usage:
+        lines.append("## How To Use")
+        lines.append("")
+        for item in usage:
+            lines.append(f"- {item}")
+        lines.append("")
     if doc_text:
         lines.extend(["## Exported Text", "", doc_text.strip(), ""])
     target.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
     return target
+
+
+def select_key_pages(page_refs: list[str], brief: dict[str, object]) -> list[str]:
+    unique_refs = sorted(set(page_refs))
+    preferred = [str(item) for item in brief.get("key_pages", [])]
+    if not preferred:
+        return unique_refs[:6]
+    preferred_set = set(preferred)
+    selected = [page_ref for page_ref in unique_refs if any(page_ref.endswith(suffix) for suffix in preferred_set)]
+    if selected:
+        return selected
+    return unique_refs[:6]
 
 
 def group_name(url: str) -> str:

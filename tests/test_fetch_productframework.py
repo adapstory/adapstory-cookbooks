@@ -4,6 +4,7 @@ from scripts.fetch_productframework import (
     canonicalize_external_url,
     clean_text_chunks,
     page_slug,
+    select_key_pages,
     title_to_slug,
 )
 
@@ -43,6 +44,21 @@ class FetchProductFrameworkTests(unittest.TestCase):
                 "https://miro.com/app/board/uXjVPLzO7IM=/?share_link_id=45726297278"
             ),
             "https://miro.com/app/board/uXjVPLzO7IM=/",
+        )
+
+    def test_select_key_pages_prefers_configured_suffixes(self) -> None:
+        refs = [
+            "docs/productframework/pages/home.md",
+            "docs/productframework/pages/product_life_cycle.md",
+            "docs/productframework/pages/feature_map.md",
+        ]
+        brief = {"key_pages": ["home.md", "product_life_cycle.md"]}
+        self.assertEqual(
+            select_key_pages(refs, brief),
+            [
+                "docs/productframework/pages/home.md",
+                "docs/productframework/pages/product_life_cycle.md",
+            ],
         )
 
 
