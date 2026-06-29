@@ -3,8 +3,21 @@
 - Source: [https://docs.google.com/spreadsheets/d/1DC61vKVcPcxb2OgGZ98hKSlzM1c07YfhAywu1WFy8Eg/edit](https://docs.google.com/spreadsheets/d/1DC61vKVcPcxb2OgGZ98hKSlzM1c07YfhAywu1WFy8Eg/edit)
 - Type: `google-sheet`
 - Preview asset: [product-mindset-навыки-менеджера-продуктов.png](../../../../assets/productframework/external/google-sheet/product-mindset-навыки-менеджера-продуктов.png)
-- Referenced from:
+- Key related pages:
   - [docs/productframework/pages/skill_map.md](docs/productframework/pages/skill_map.md)
+- Referenced from archived pages: 1
+
+## Description
+
+Табличная карта Product Mindset с навыками менеджера продукта, используемая для диагностики компетенций и обсуждения ролевой модели.
+
+## What The Scheme Covers
+
+- Фиксирует набор навыков и позволяет смотреть на них как на матрицу развития или оценки роли.
+
+## How To Use
+
+- Использовать при оценке компетенций, найме и построении плана обучения product-команды.
 
 ## Exported Text
 

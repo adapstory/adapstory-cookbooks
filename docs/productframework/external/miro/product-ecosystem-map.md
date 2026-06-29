@@ -3,70 +3,22 @@
 - Source: [https://miro.com/app/board/uXjVN-A4MfU=/](https://miro.com/app/board/uXjVN-A4MfU=/)
 - Type: `miro`
 - Preview asset: [product-ecosystem-map.png](../../../../assets/productframework/external/miro/product-ecosystem-map.png)
-- Referenced from:
-  - [docs/productframework/pages/about.md](docs/productframework/pages/about.md)
-  - [docs/productframework/pages/activities/acquisition_configuration_research.md](docs/productframework/pages/activities/acquisition_configuration_research.md)
-  - [docs/productframework/pages/activities/acquisition_strategy_design.md](docs/productframework/pages/activities/acquisition_strategy_design.md)
-  - [docs/productframework/pages/activities/activation_strategy_design.md](docs/productframework/pages/activities/activation_strategy_design.md)
-  - [docs/productframework/pages/activities/business_logic_design.md](docs/productframework/pages/activities/business_logic_design.md)
-  - [docs/productframework/pages/activities/business_model_research.md](docs/productframework/pages/activities/business_model_research.md)
-  - [docs/productframework/pages/activities/competitive_positioning_design.md](docs/productframework/pages/activities/competitive_positioning_design.md)
-  - [docs/productframework/pages/activities/competitors_analysis.md](docs/productframework/pages/activities/competitors_analysis.md)
-  - [docs/productframework/pages/activities/customer_research.md](docs/productframework/pages/activities/customer_research.md)
-  - [docs/productframework/pages/activities/market_analysis.md](docs/productframework/pages/activities/market_analysis.md)
-  - [docs/productframework/pages/activities/qualitative_analytics.md](docs/productframework/pages/activities/qualitative_analytics.md)
-  - [docs/productframework/pages/activities/quantitative_analytics.md](docs/productframework/pages/activities/quantitative_analytics.md)
-  - [docs/productframework/pages/activities/requirements_design.md](docs/productframework/pages/activities/requirements_design.md)
-  - [docs/productframework/pages/activities/segment_scoring.md](docs/productframework/pages/activities/segment_scoring.md)
-  - [docs/productframework/pages/activities/solution_prototyping.md](docs/productframework/pages/activities/solution_prototyping.md)
-  - [docs/productframework/pages/activities/value_proposition_research.md](docs/productframework/pages/activities/value_proposition_research.md)
-  - [docs/productframework/pages/ai_product_roles.md](docs/productframework/pages/ai_product_roles.md)
-  - [docs/productframework/pages/articles/gameofpaf_history.md](docs/productframework/pages/articles/gameofpaf_history.md)
-  - [docs/productframework/pages/barb_farm_cultures.md](docs/productframework/pages/barb_farm_cultures.md)
-  - [docs/productframework/pages/business_goals.md](docs/productframework/pages/business_goals.md)
-  - [docs/productframework/pages/competitors_monitoring.md](docs/productframework/pages/competitors_monitoring.md)
-  - [docs/productframework/pages/customer_context.md](docs/productframework/pages/customer_context.md)
-  - [docs/productframework/pages/customers_wishes_and_desires.md](docs/productframework/pages/customers_wishes_and_desires.md)
-  - [docs/productframework/pages/development_agreements.md](docs/productframework/pages/development_agreements.md)
-  - [docs/productframework/pages/discovery_triangle.md](docs/productframework/pages/discovery_triangle.md)
-  - [docs/productframework/pages/education_program.md](docs/productframework/pages/education_program.md)
-  - [docs/productframework/pages/events_monitoring.md](docs/productframework/pages/events_monitoring.md)
-  - [docs/productframework/pages/experiment_methodology.md](docs/productframework/pages/experiment_methodology.md)
-  - [docs/productframework/pages/feature_backlog.md](docs/productframework/pages/feature_backlog.md)
-  - [docs/productframework/pages/feature_life_cycle.md](docs/productframework/pages/feature_life_cycle.md)
-  - [docs/productframework/pages/feature_map.md](docs/productframework/pages/feature_map.md)
-  - [docs/productframework/pages/gameofpaf.md](docs/productframework/pages/gameofpaf.md)
-  - [docs/productframework/pages/home.md](docs/productframework/pages/home.md)
-  - [docs/productframework/pages/hypotheses/business_model.md](docs/productframework/pages/hypotheses/business_model.md)
-  - [docs/productframework/pages/hypotheses/customer.md](docs/productframework/pages/hypotheses/customer.md)
-  - [docs/productframework/pages/hypotheses/solution.md](docs/productframework/pages/hypotheses/solution.md)
-  - [docs/productframework/pages/hypotheses/value_proposition.md](docs/productframework/pages/hypotheses/value_proposition.md)
-  - [docs/productframework/pages/hypothesis.md](docs/productframework/pages/hypothesis.md)
-  - [docs/productframework/pages/implementation_plan.md](docs/productframework/pages/implementation_plan.md)
-  - [docs/productframework/pages/library.md](docs/productframework/pages/library.md)
-  - [docs/productframework/pages/market_monitoring.md](docs/productframework/pages/market_monitoring.md)
-  - [docs/productframework/pages/mass_media_monitoring.md](docs/productframework/pages/mass_media_monitoring.md)
-  - [docs/productframework/pages/ops/main.md](docs/productframework/pages/ops/main.md)
-  - [docs/productframework/pages/page3702482.html.md](docs/productframework/pages/page3702482.html.md)
-  - [docs/productframework/pages/picture_of_the_world.md](docs/productframework/pages/picture_of_the_world.md)
-  - [docs/productframework/pages/principles.md](docs/productframework/pages/principles.md)
-  - [docs/productframework/pages/prioritization_scheme.md](docs/productframework/pages/prioritization_scheme.md)
-  - [docs/productframework/pages/problem_backlog.md](docs/productframework/pages/problem_backlog.md)
-  - [docs/productframework/pages/product_concept.md](docs/productframework/pages/product_concept.md)
-  - [docs/productframework/pages/product_discovery.md](docs/productframework/pages/product_discovery.md)
-  - [docs/productframework/pages/product_documentation.md](docs/productframework/pages/product_documentation.md)
+- Key related pages:
   - [docs/productframework/pages/product_ecosystem_map.md](docs/productframework/pages/product_ecosystem_map.md)
   - [docs/productframework/pages/product_evolution_cycle.md](docs/productframework/pages/product_evolution_cycle.md)
-  - [docs/productframework/pages/product_life_cycle.md](docs/productframework/pages/product_life_cycle.md)
   - [docs/productframework/pages/product_market_fit.md](docs/productframework/pages/product_market_fit.md)
-  - [docs/productframework/pages/product_ops_test_reflection.md](docs/productframework/pages/product_ops_test_reflection.md)
-  - [docs/productframework/pages/project_portfolio.md](docs/productframework/pages/project_portfolio.md)
-  - [docs/productframework/pages/release_notes.md](docs/productframework/pages/release_notes.md)
-  - [docs/productframework/pages/roadmap.md](docs/productframework/pages/roadmap.md)
-  - [docs/productframework/pages/skill_map.md](docs/productframework/pages/skill_map.md)
-  - [docs/productframework/pages/success_stories.md](docs/productframework/pages/success_stories.md)
-  - [docs/productframework/pages/tam_sam_som.md](docs/productframework/pages/tam_sam_som.md)
-  - [docs/productframework/pages/team_relationships.md](docs/productframework/pages/team_relationships.md)
-  - [docs/productframework/pages/testing.md](docs/productframework/pages/testing.md)
-  - [docs/productframework/pages/user_scenarios.md](docs/productframework/pages/user_scenarios.md)
-  - [docs/productframework/pages/value_and_north_star.md](docs/productframework/pages/value_and_north_star.md)
+- Referenced from archived pages: 66
+
+## Description
+
+Схема продуктовой экосистемы, которая показывает, как несколько продуктов и потоков ценности могут усиливать друг друга внутри общего портфеля.
+
+## What The Scheme Covers
+
+- Помогает проектировать связи между продуктами, каналами и сценариями перехода пользователя между решениями.
+- Нужна для thinking beyond single-product growth и поиска синергии в портфеле.
+
+## How To Use
+
+- Использовать в Product Evolution и Portfolio Formation, когда бизнес выходит за рамки одного продукта.
+- Отмечать точки cross-sell, shared capabilities и общие каналы acquisition/retention.

@@ -3431,7 +3431,7 @@
       "title": "Quantitative Analytics",
       "description": "Количественная аналитика продукта предназначена для понимания эффективности процессов получения ценности от продукта, позволяя определить размер конверсий, долю использования функций продукта, частоту, распределения, метрики нормирования на одного пользователя и более сложные вопросы вида \"сколько?\".",
       "markdown_path": "docs/productframework/pages/activities/quantitative_analytics.md",
-      "asset_path": null,
+      "asset_path": "assets/productframework/pages/activities/quantitative_analytics.jpg",
       "external_links": [
         {
           "text": "Библиотека бизнес-моделей",
