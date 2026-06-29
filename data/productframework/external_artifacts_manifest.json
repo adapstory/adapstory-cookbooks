@@ -1,0 +1,128 @@
+[
+  {
+    "slug": "product-architecture-framework",
+    "title": "Product Architecture Framework",
+    "type": "miro",
+    "source": "https://miro.com/app/board/uXjVK3QPtrU=/",
+    "local_md": "docs/productframework/external/miro/product-architecture-framework.md",
+    "local_image": "assets/productframework/external/miro/product-architecture-framework.png",
+    "local_ocr": "data/productframework/ocr/miro/product-architecture-framework.md",
+    "related_pages": [
+      "docs/productframework/pages/home.md",
+      "docs/productframework/pages/barb_farm_cultures.md",
+      "docs/productframework/pages/product_evolution_cycle.md"
+    ]
+  },
+  {
+    "slug": "product-ecosystem-map",
+    "title": "Product Ecosystem Map",
+    "type": "miro",
+    "source": "https://miro.com/app/board/uXjVN-A4MfU=/",
+    "local_md": "docs/productframework/external/miro/product-ecosystem-map.md",
+    "local_image": "assets/productframework/external/miro/product-ecosystem-map.png",
+    "local_ocr": "data/productframework/ocr/miro/product-ecosystem-map.md",
+    "related_pages": [
+      "docs/productframework/pages/product_ecosystem_map.md",
+      "docs/productframework/pages/product_evolution_cycle.md",
+      "docs/productframework/pages/library.md"
+    ]
+  },
+  {
+    "slug": "shablony-biznes-modeley",
+    "title": "Шаблоны бизнес-моделей",
+    "type": "miro",
+    "source": "https://miro.com/app/board/uXjVOWJXlSQ=/",
+    "local_md": "docs/productframework/external/miro/шаблоны-бизнес-моделей.md",
+    "local_image": "assets/productframework/external/miro/шаблоны-бизнес-моделей.jpg",
+    "local_ocr": "data/productframework/ocr/miro/shablony-biznes-modeley.md",
+    "related_pages": [
+      "docs/productframework/pages/product_ecosystem_map.md",
+      "docs/productframework/pages/articles/gameofpaf_history.md",
+      "docs/productframework/pages/hypotheses/business_model.md"
+    ]
+  },
+  {
+    "slug": "karta-navykov-i-roley-v-product-management",
+    "title": "Карта навыков и ролей в Product Management",
+    "type": "miro",
+    "source": "https://miro.com/app/board/uXjVOs817Gs=/",
+    "local_md": "docs/productframework/external/miro/карта-навыков-и-ролей-в-product-management.md",
+    "local_image": "assets/productframework/external/miro/карта-навыков-и-ролей-в-product-management.jpg",
+    "local_ocr": "data/productframework/ocr/miro/karta-navykov-i-roley.md",
+    "related_pages": [
+      "docs/productframework/pages/ai_product_roles.md",
+      "docs/productframework/pages/skill_map.md",
+      "docs/productframework/pages/home.md"
+    ]
+  },
+  {
+    "slug": "biblioteka-eksperimentov",
+    "title": "Библиотека экспериментов",
+    "type": "miro",
+    "source": "https://miro.com/app/board/uXjVOxyyBs0=/",
+    "local_md": "docs/productframework/external/miro/библиотека-экспериментов.md",
+    "local_image": "assets/productframework/external/miro/библиотека-экспериментов.png",
+    "local_ocr": "data/productframework/ocr/miro/biblioteka-eksperimentov.md",
+    "related_pages": [
+      "docs/productframework/pages/discovery_triangle.md",
+      "docs/productframework/pages/product_market_fit.md",
+      "docs/productframework/pages/customer_context.md"
+    ]
+  },
+  {
+    "slug": "tam-sam-som",
+    "title": "Шаблон TAM / SAM / SOM",
+    "type": "miro",
+    "source": "https://miro.com/app/board/uXjVPLzO7IM=/",
+    "local_md": "docs/productframework/external/miro/шаблон-tam-sam-som.md",
+    "local_image": "assets/productframework/external/miro/шаблон-tam-sam-som.png",
+    "local_ocr": "data/productframework/ocr/miro/tam-sam-som.md",
+    "related_pages": [
+      "docs/productframework/pages/tam_sam_som.md",
+      "docs/productframework/pages/library.md",
+      "docs/productframework/pages/articles/gameofpaf_history.md"
+    ]
+  },
+  {
+    "slug": "hypothesis-card",
+    "title": "Hypothesis Card",
+    "type": "google-doc",
+    "source": "https://docs.google.com/document/d/1C-9NCwm5_AFssK72OEJK2ujQjuuZVvK-8p1tHverp6s/edit",
+    "local_md": "docs/productframework/external/google-doc/hypothesis-card.md",
+    "local_image": "assets/productframework/external/google-doc/hypothesis-card.png",
+    "local_ocr": "data/productframework/ocr/google-doc/hypothesis-card.md",
+    "related_pages": [
+      "docs/productframework/pages/discovery_triangle.md",
+      "docs/productframework/pages/product_market_fit.md",
+      "docs/productframework/pages/customer_context.md"
+    ]
+  },
+  {
+    "slug": "product-requirements-document",
+    "title": "Product Requirements Document",
+    "type": "google-doc",
+    "source": "https://docs.google.com/document/d/1I61-3IfI6qqsDQM5Cnvw0aFztQNbRU9CCq9St8Z3vCE/edit",
+    "local_md": "docs/productframework/external/google-doc/product-requirements-document.md",
+    "local_image": "assets/productframework/external/google-doc/product-requirements-document.png",
+    "local_ocr": "data/productframework/ocr/google-doc/product-requirements-document.md",
+    "related_pages": [
+      "docs/productframework/pages/product_documentation.md",
+      "docs/productframework/pages/tam_sam_som.md",
+      "docs/productframework/pages/value_and_north_star.md"
+    ]
+  },
+  {
+    "slug": "product-mindset-navyki-menedzhera-produktov",
+    "title": "[Product Mindset] Навыки менеджера продуктов",
+    "type": "google-sheet",
+    "source": "https://docs.google.com/spreadsheets/d/1DC61vKVcPcxb2OgGZ98hKSlzM1c07YfhAywu1WFy8Eg/edit",
+    "local_md": "docs/productframework/external/google-sheet/product-mindset-навыки-менеджера-продуктов.md",
+    "local_image": "assets/productframework/external/google-sheet/product-mindset-навыки-менеджера-продуктов.png",
+    "local_ocr": "data/productframework/ocr/google-sheet/product-mindset-навыки-менеджера-продуктов.md",
+    "related_pages": [
+      "docs/productframework/pages/ai_product_roles.md",
+      "docs/productframework/pages/skill_map.md",
+      "docs/productframework/pages/library.md"
+    ]
+  }
+]

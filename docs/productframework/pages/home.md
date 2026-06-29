@@ -12,6 +12,12 @@
   - [Hypothesis Card](https://docs.google.com/document/d/1C-9NCwm5_AFssK72OEJK2ujQjuuZVvK-8p1tHverp6s/edit)
   - [Каркас фреймворка в MIRO](https://miro.com/app/board/uXjVK3QPtrU=/)
 
+## Cookbook Archive
+
+- [Индекс внешних артефактов](../external_artifacts_index.md)
+- [Machine-readable manifest](../../../data/productframework/external_artifacts_manifest.json)
+- [Локальный Product Architecture Framework](../external/miro/product-architecture-framework.md)
+
 ## Description
 
 Методология управления продуктовой компанией от отдельных гипотез до долгосрочных стратегий
