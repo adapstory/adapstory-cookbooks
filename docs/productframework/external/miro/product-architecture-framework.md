@@ -22,3 +22,25 @@
 
 - Использовать как обзорную карту для product ops, обучения и аудита роли команды.
 - Отмечать на карте, какие практики уже работают, а какие являются пробелами.
+
+## High-Resolution Screenshot
+
+- Local asset: [product-architecture-framework.png](../../../../assets/productframework/external/miro/product-architecture-framework.png)
+- Resolution: `6400x4400`
+- OCR dump: [product-architecture-framework.md](../../../../data/productframework/ocr/miro/product-architecture-framework.md)
+
+## OCR Description
+
+По OCR и визуальной структуре это большая обзорная доска из четырех крупных блоков. В верхней половине размещены английские версии `Product Architecture Framework _ Release 1.0` и `PAF Toolset`, в нижней половине их русифицированные аналоги. Основной каркас слева разбит по уровням `Strategy Management`, `Business Unit Management`, `Operational Product Management`, `Hypothesis-based Management`; внутри уровней повторяется деление на `Object Model`, `Process Model` и `Artifact Model`. Справа показан каталог конкретных инструментов PAF: отдельные мини-карты для бизнес-модели, экосистемы продуктов, карты навыков, roadmap, customer context, market model и других связанных артефактов.
+
+## OCR Key Labels
+
+- `Product Architecture Framework _ Release 1.0`
+- `PAF Toolset`
+- `Strategy Management`
+- `Business Unit Management`
+- `Operational Product Management`
+- `Hypothesis-based Management`
+- `Object Model`
+- `Process Model`
+- `Artifact Model`
