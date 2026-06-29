@@ -11,6 +11,13 @@
   - [Product Requirements Document](https://docs.google.com/document/d/1I61-3IfI6qqsDQM5Cnvw0aFztQNbRU9CCq9St8Z3vCE/edit)
   - [Hypothesis Card](https://docs.google.com/document/d/1C-9NCwm5_AFssK72OEJK2ujQjuuZVvK-8p1tHverp6s/edit)
 
+## Cookbook Archive
+
+- [Индекс внешних артефактов](../../external_artifacts_index.md)
+- [Локальная библиотека экспериментов](../../external/miro/библиотека-экспериментов.md)
+- [Локальные шаблоны бизнес-моделей](../../external/miro/шаблоны-бизнес-моделей.md)
+- [Локальный шаблон TAM / SAM / SOM](../../external/miro/шаблон-tam-sam-som.md)
+
 ## Description
 
 История возникновения и проектирования стратегической бизнес-игры Game of PAF

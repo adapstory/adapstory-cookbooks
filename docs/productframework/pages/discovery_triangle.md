@@ -12,6 +12,12 @@
   - [Hypothesis Card](https://docs.google.com/document/d/1C-9NCwm5_AFssK72OEJK2ujQjuuZVvK-8p1tHverp6s/edit)
   - [шаблон карточки гипотезы](https://docs.google.com/document/d/1C-9NCwm5_AFssK72OEJK2ujQjuuZVvK-8p1tHverp6s/edit)
 
+## Cookbook Archive
+
+- [Индекс внешних артефактов](../external_artifacts_index.md)
+- [Локальная библиотека экспериментов](../external/miro/библиотека-экспериментов.md)
+- [Локальная карточка Hypothesis Card](../external/google-doc/hypothesis-card.md)
+
 ## Description
 
 Способы управления эффективностью исследований: время, стоимость и точность данных

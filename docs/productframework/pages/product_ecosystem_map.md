@@ -12,6 +12,12 @@
   - [Hypothesis Card](https://docs.google.com/document/d/1C-9NCwm5_AFssK72OEJK2ujQjuuZVvK-8p1tHverp6s/edit)
   - [Шаблон также доступе в Miro для копирования.](https://miro.com/app/board/uXjVN-A4MfU=/)
 
+## Cookbook Archive
+
+- [Индекс внешних артефактов](../external_artifacts_index.md)
+- [Локальный Product Ecosystem Map](../external/miro/product-ecosystem-map.md)
+- [Локальные шаблоны бизнес-моделей](../external/miro/шаблоны-бизнес-моделей.md)
+
 ## Description
 
 Экосистема продуктов как способ бесконечного масштабирования компании

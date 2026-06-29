@@ -11,6 +11,13 @@
   - [Product Requirements Document](https://docs.google.com/document/d/1I61-3IfI6qqsDQM5Cnvw0aFztQNbRU9CCq9St8Z3vCE/edit)
   - [Hypothesis Card](https://docs.google.com/document/d/1C-9NCwm5_AFssK72OEJK2ujQjuuZVvK-8p1tHverp6s/edit)
 
+## Cookbook Archive
+
+- [Индекс внешних артефактов](../external_artifacts_index.md)
+- [Локальная карточка Hypothesis Card](../external/google-doc/hypothesis-card.md)
+- [Локальный Product Requirements Document](../external/google-doc/product-requirements-document.md)
+- [Локальная библиотека экспериментов](../external/miro/библиотека-экспериментов.md)
+
 ## Description
 
 Из чего состоит контекст потребителя, как его выявить, каким образом сформировать ценностные предложения и достичь целей продукта.

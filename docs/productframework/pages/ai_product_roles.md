@@ -13,6 +13,12 @@
   - [Карту навыков и ролей в Product Management](https://miro.com/app/board/uXjVOs817Gs=/)
   - [PRD](https://docs.google.com/document/d/1I61-3IfI6qqsDQM5Cnvw0aFztQNbRU9CCq9St8Z3vCE/edit)
 
+## Cookbook Archive
+
+- [Индекс внешних артефактов](../external_artifacts_index.md)
+- [Локальная карта навыков и ролей в Product Management](../external/miro/карта-навыков-и-ролей-в-product-management.md)
+- [Локальная таблица Product Mindset](../external/google-sheet/product-mindset-навыки-менеджера-продуктов.md)
+
 ## Description
 
 Исследования и предпосылки к изменению ролевой модели менеджеров продуктов: несколько разных направлений

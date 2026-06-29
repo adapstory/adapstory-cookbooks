@@ -11,6 +11,12 @@
   - [Product Requirements Document](https://docs.google.com/document/d/1I61-3IfI6qqsDQM5Cnvw0aFztQNbRU9CCq9St8Z3vCE/edit)
   - [Hypothesis Card](https://docs.google.com/document/d/1C-9NCwm5_AFssK72OEJK2ujQjuuZVvK-8p1tHverp6s/edit)
 
+## Cookbook Archive
+
+- [Индекс внешних артефактов](../external_artifacts_index.md)
+- [Локальный Product Architecture Framework](../external/miro/product-architecture-framework.md)
+- [Локальный Product Ecosystem Map](../external/miro/product-ecosystem-map.md)
+
 ## Description
 
 Каким образом происходит эволюция продукта, можно ли её спроектировать и могут ли разные продукты стать одинаковыми спустя время?

@@ -22,6 +22,29 @@
 
 - Использовать вместе с библиотекой экспериментов и backlog гипотез.
 
+## Screenshot Archive
+
+- Local asset: [hypothesis-card.png](../../../../assets/productframework/external/google-doc/hypothesis-card.png)
+- Resolution: `1200x630`
+- OCR dump: [hypothesis-card.md](../../../../data/productframework/ocr/google-doc/hypothesis-card.md)
+
+## OCR Description
+
+OCR подтверждает, что это структурированный шаблон `Hypothesis Card`, разбитый на три основных блока: `1. Hypothesis`, `2. Experiment`, `3. Conclusions`. Внутри раздела гипотезы выделены поля `Description` и `Background`; в экспериментальной части находятся `Description`, `Conditions`, `Metrics`, `Expected Effect`, `Sample Size`, `Action Plan`; в завершении идут `Actual Result` и `New Knowledge`. По содержанию и структуре документ используется как каноническая карточка для фиксации формулировки гипотезы, дизайна проверки, условий принятия решения и последующего извлечения знаний.
+
+## OCR Key Labels
+
+- `Hypothesis Card`
+- `1. Hypothesis`
+- `Background`
+- `2. Experiment`
+- `Conditions`
+- `Metrics`
+- `Expected Effect`
+- `Sample Size`
+- `Action Plan`
+- `3. Conclusions`
+
 ## Exported Text
 
 ﻿Hypothesis Card 

@@ -13,6 +13,12 @@
   - [Шаблон также доступен в Miro для копирования.](https://miro.com/app/board/uXjVPLzO7IM=/)
   - [Посмотреть пример заполнения шаблона можно здесь](https://miro.com/app/board/uXjVPLzO7IM=/)
 
+## Cookbook Archive
+
+- [Индекс внешних артефактов](../external_artifacts_index.md)
+- [Локальный шаблон TAM / SAM / SOM](../external/miro/шаблон-tam-sam-som.md)
+- [Локальный Product Requirements Document](../external/google-doc/product-requirements-document.md)
+
 ## Description
 
 Каким образом произвести оценку, в чем разница уровней и на что нужно обращать внимание.

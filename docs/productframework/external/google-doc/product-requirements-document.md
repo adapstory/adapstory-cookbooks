@@ -22,6 +22,31 @@
 
 - Заполнять после прохождения discovery и перед детальным проектированием решения.
 
+## Screenshot Archive
+
+- Local asset: [product-requirements-document.png](../../../../assets/productframework/external/google-doc/product-requirements-document.png)
+- Resolution: `1200x630`
+- OCR dump: [product-requirements-document.md](../../../../data/productframework/ocr/google-doc/product-requirements-document.md)
+
+## OCR Description
+
+OCR показывает, что документ собран как полный `Product Requirements Document` с четырьмя большими частями: `1. Purpose`, `2. Customer & Value`, `3. Solution`, `4. Execution`. Внутри считываются блоки `Background`, `Business & Product Goals`, `Customer Segment`, `Market & Business Analysis`, `Proposal & Value Propositions`, `Risk Assumptions`, `Solution`, `Project Plan`, `Launch Strategy`, `Post-Launch Plan`. Это не короткий шаблон требований, а полноценный каркас, который переводит результаты исследований и бизнес-анализа в план решения, запуска и постзапусковых действий.
+
+## OCR Key Labels
+
+- `Product Requirements Document`
+- `1. Purpose`
+- `Business & Product Goals`
+- `2. Customer & Value`
+- `Customer Segment`
+- `Market & Business Analysis`
+- `Proposal & Value Propositions`
+- `3. Solution`
+- `Project Plan`
+- `4. Execution`
+- `Launch Strategy`
+- `Post-Launch Plan`
+
 ## Exported Text
 
 ﻿Product Requirements Document
