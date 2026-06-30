@@ -2,7 +2,7 @@
 
 - Source sitemap: [https://productframework.ru/sitemap.xml](https://productframework.ru/sitemap.xml)
 - Pages archived: 66
-- External artifacts archived: 9
+- External artifacts archived: 10
 
 ## Pages
 
@@ -221,6 +221,7 @@
 
 ## External Artifacts
 
+- [Design AI](external/Design%20AI/README.md)
 - [Hypothesis Card](external/google-doc/hypothesis-card.md)
 - [Product Architecture Framework](external/miro/product-architecture-framework.md)
 - [Product Ecosystem Map](external/miro/product-ecosystem-map.md)
